@@ -1,5 +1,13 @@
+
 # business-managment-system
 this is single user system becouse admin of business is one only other person can access it when admin offered access for her or him.
+
+this repository was designed for every one want to make single user system it can help you in you project
+
+as you us you can send your request on:
+http://Discord.com
+email: whdreampro@gmail.com
+number: 0794068520     //all is available
 
 /*============ the some code of this system it like this one where you can download and use it in your project when is neccessary */
 
