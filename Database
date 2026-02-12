@@ -1,0 +1,20 @@
+DATABASE FOR SINGLE USER SYSTEM OR LOGIC 
+
+CREATE DATABASE single_user_system;
+
+CREATE TABLE IF NOT EXISTS users (
+  id INT PRIMARY KEY AUTO_INCREMENT,        -- unique identifier
+  username VARCHAR(100) NOT NULL,           -- e.g., emmy_u2
+  email VARCHAR(255) NOT NULL UNIQUE,       -- your email
+  phone VARCHAR(20),                         -- your phone
+  first_name VARCHAR(100),                  -- e.g., Emmanuel
+  last_name VARCHAR(100),                   -- your last name
+  bio TEXT,                                 -- short description
+  github_link VARCHAR(255),                 -- GitHub profile
+  instagram VARCHAR(255),                    -- Instagram handle
+  facebook VARCHAR(255),                     -- Facebook profile link
+  discord VARCHAR(255),                      -- Discord tag
+  whatsapp VARCHAR(20),                      -- WhatsApp number
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
