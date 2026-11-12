@@ -27,7 +27,7 @@ Key Characteristics
     Outcome-Oriented: Focused on reaching a particular result within a defined timeframe.
     Flexibility: They are adaptable during the project but are discarded once the goal is met. 
 
-   YOU CAN USE THIS CODE IN YOUR OWNER SEE LIKE THIS ONE:
+   YOU CAN USE THIS CODE IN YOUR OWNER SEE LIKE THIS ONE: so this is PHP
 
    dashboard.php
    <?php
@@ -179,7 +179,8 @@ if(isset($_POST['signup'])){
 </html>
 
 
- //other description write for me in box 
+ //other description text me DM 
+ thatnks
    
 
     
