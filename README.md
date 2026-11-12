@@ -2,7 +2,7 @@ I WANT TO TEACHER YOU LOGIC OF SINGLE USER SYSTEM ON THIS REPOSITORY
 # business-managment-system
 this is single user system becouse admin of business is one only other person can access it when admin offered access for some one else.
 
-this repository was designed for every one want to make single user system it can help you in you project
+this repository was designed for every one want to make single user system it can help you in you project your real life as programmer
 
 as you us you can send your request on:
 http://Discord.com
